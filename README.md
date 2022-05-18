@@ -1,6 +1,6 @@
-Simple application for plumber accounting via REST API based on Spring Boot and Embedded PostgreSQL database. You don't have to run database separately, it will be automatically started with the application and populated with test data using Liquibase. Note that data will be lost after the application stops 
+Simple application for plumber accounting via REST API based on Spring Boot and Embedded PostgreSQL database. You don't have to run database separately, it will be automatically started along with the application and populated with test data using Liquibase. Note that data will be lost after the application stops.
 
-For launching execute following command from the base directory of this project/
+For launching execute following command from the base directory of this project.
 
 If you use Unix:
 ```
