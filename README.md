@@ -21,3 +21,9 @@ If you use Windows:
 ```
 .\mvnw.cmd test
 ```
+Suggestions For Improvement:
+- Security (OAuth 2.0 + OpenID + HTTPS)
+- Pagination
+- Restrictions on database level (Rules/Triggers)
+- Extend schema for storing addresses
+- Use library for address validation (e.g. libaddressinput)
