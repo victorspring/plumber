@@ -25,5 +25,6 @@ Suggestions For Improvement:
 - Security (OAuth 2.0 + OpenID + HTTPS)
 - Pagination
 - Restrictions on database level (Rules/Triggers)
+- Hibernate validator
 - Extend schema for storing addresses
 - Use library for address validation (e.g. libaddressinput)
